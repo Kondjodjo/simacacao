@@ -1,0 +1,10 @@
+<?php
+// Paramètres de connexion
+$connection=pg_connect("Host=localhost dbname=SIMACACAO user=postgres password=302776");
+if(!$connection){
+	echo "An error occurred.<br>";
+	exit;
+}
+// Connexion à la base de données
+$result=pg_query($connection,"SELECT * FROM users");
+?>

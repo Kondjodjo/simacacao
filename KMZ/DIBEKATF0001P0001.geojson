@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DIBEKATF0001P0001",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32632" } },
+"features": [
+{ "type": "Feature", "properties": { "code_parcelle": "DIBEKATF0001P0001", "village_parcelle": "BEKOKO", "superficie_parcelle": "6ha 74a 84ca", "url_carte_parcelle": "../CARTOGRAPHIE/DIBEKATF0001P0001.png", "url_kmz_parcelle": "../KMZ/DIBEKATF0001P0001.kmz", "url_geojson_parcelle": "../GEOJSON/DIBEKATF0001P0001.kmz", "code_departement": "DEPTMOUNGO" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 563930.682000000029802, 455746.37599999998929 ], [ 564041.756000000052154, 455635.914999999979045 ], [ 564152.751000000047497, 455635.995 ], [ 564152.670999999972992, 455746.537000000011176 ], [ 564263.584999999962747, 455857.158999999985099 ], [ 564041.515999999945052, 455967.538999999989755 ], [ 563930.601999999955297, 455856.917000000015832 ], [ 563930.682000000029802, 455746.37599999998929 ] ] ] } }
+]
+}
